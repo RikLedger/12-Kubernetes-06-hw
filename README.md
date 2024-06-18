@@ -1,5 +1,11 @@
 # Домашнее задание к занятию «Хранение в K8s. Часть 1» `Горбачев Олег`
 
+### Дополнительные материалы для выполнения задания
+
+1. [Инструкция по установке MicroK8S](https://microk8s.io/docs/getting-started).
+2. [Описание Volumes](https://kubernetes.io/docs/concepts/storage/volumes/).
+3. [Описание Multitool](https://github.com/wbitt/Network-MultiTool).
+   
 ### Задание 1 
 
 **Что нужно сделать**
